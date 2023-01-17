@@ -26,4 +26,4 @@ Você pode ver o projeto [clicando aqui](https://paulaandrezza.github.io/Theme-S
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]("https://www.figma.com/file/dO7o34Il8TV7XP6yoYFu8e/DD-%2F-Countdown-(Copy)?node-id=2001%3A2&t=zLawHsaRzJZ5DuEl-0/duplicate"). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK]("https://www.figma.com/file/QF61DnjVmuESpj4qpUWtQv/DD-%2F-Theme-Switcher-(Copy)?node-id=302%3A12&t=cfE0xZJ5XmaftXgw-0/duplicate"). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
