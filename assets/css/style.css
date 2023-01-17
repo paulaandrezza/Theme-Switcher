@@ -1,0 +1,49 @@
+body {
+    background-color: #F1F1F1;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    transition: 1s;
+    color: #000;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.switcher {
+    width: 180px;
+    height: 80px;
+    border-radius: 40px;
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    padding: 0 5px;
+}
+
+img {
+    position: absolute;
+}
+
+.sun {
+    padding-left: 110px;
+}
+
+button {
+    position: absolute;
+    z-index: 2;
+    width: 70px;
+    height: 70px;
+    border-radius: 40px;
+    border: none;
+    background-color: #F1F1F1;
+    transition: 1s;
+}
+
+button:hover {
+    cursor: pointer;
+}
