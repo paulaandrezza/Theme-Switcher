@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-    <img alt="Countdown" src="./assets/img/dark.jpeg" width="45%">
+    <img alt="Countdown" src="./assets/img/desktop.jpeg" width="45%">
     <img alt="Countdown" src="./assets/img/light.jpeg" width="45%">
 </p>
 
